@@ -1,5 +1,8 @@
 export const req = {
-  body: null,
+  body: {
+    id: 1,
+    status: 'Old status',
+  },
   user: {
     id: 1,
   },
